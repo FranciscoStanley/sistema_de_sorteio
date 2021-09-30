@@ -1,0 +1,15 @@
+h1{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 40px;
+    color: blue;
+    box-shadow: 10px 8px 4px blue;
+
+}
+.entrada{
+    color: blue;
+}
+
+.active{
+    background-color: green;
+    color: white;
+}
